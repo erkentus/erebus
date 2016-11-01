@@ -1,0 +1,163 @@
+{
+	"ImportPath": "github.com/erkentus/erebus",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/PuerkitoBio/purell",
+			"Comment": "v1.0.0",
+			"Rev": "8a290539e2e8629dbc4e6bad948158f790ec31f4"
+		},
+		{
+			"ImportPath": "github.com/PuerkitoBio/urlesc",
+			"Rev": "5bd2802263f21d8788851d5305584c82a5c75d7e"
+		},
+		{
+			"ImportPath": "github.com/asaskevich/govalidator",
+			"Comment": "v5",
+			"Rev": "7b3beb6df3c42abd3509abfc3bcacc0fbfb7c877"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/analysis",
+			"Rev": "7222828b8ce19afee3c595aef6643b9e42150120"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/errors",
+			"Rev": "4178436c9f2430cdd945c50301cfb61563b56573"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/jsonpointer",
+			"Rev": "46af16f9f7b149af66e5d1bd010e3574dc06de98"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/jsonreference",
+			"Rev": "13c6e3589ad90f49bd3e3bbe2c2cb3d7a4142272"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/loads",
+			"Rev": "9168874c33ac10e241ee7767ed9f5d209c2a5ab0"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/runtime",
+			"Rev": "2faaf90bf67e0616db00094f2141f99b00a9ebc2"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/runtime/middleware",
+			"Rev": "2faaf90bf67e0616db00094f2141f99b00a9ebc2"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/runtime/middleware/denco",
+			"Rev": "2faaf90bf67e0616db00094f2141f99b00a9ebc2"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/runtime/middleware/header",
+			"Rev": "2faaf90bf67e0616db00094f2141f99b00a9ebc2"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/runtime/middleware/untyped",
+			"Rev": "2faaf90bf67e0616db00094f2141f99b00a9ebc2"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/runtime/security",
+			"Rev": "2faaf90bf67e0616db00094f2141f99b00a9ebc2"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/spec",
+			"Rev": "8f2b3d0e3aa15100eea0ab61dc6fa02f00f5e713"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/strfmt",
+			"Rev": "d65c7fdb29eca313476e529628176fe17e58c488"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/swag",
+			"Rev": "3b6d86cd965820f968760d5d419cb4add096bdd7"
+		},
+		{
+			"ImportPath": "github.com/go-openapi/validate",
+			"Rev": "027696d4b54399770f1cdcc6c6daa56975f9e14e"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Comment": "v1.1-7-g08b5f42",
+			"Rev": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42"
+		},
+		{
+			"ImportPath": "github.com/jessevdk/go-flags",
+			"Comment": "v1-376-g0648c82",
+			"Rev": "0648c820cd4e564706597268ae2d2c7d9e6900c6"
+		},
+		{
+			"ImportPath": "github.com/mailru/easyjson/buffer",
+			"Rev": "06715e4cffead4add5840414232aaf7786809ea9"
+		},
+		{
+			"ImportPath": "github.com/mailru/easyjson/jlexer",
+			"Rev": "06715e4cffead4add5840414232aaf7786809ea9"
+		},
+		{
+			"ImportPath": "github.com/mailru/easyjson/jwriter",
+			"Rev": "06715e4cffead4add5840414232aaf7786809ea9"
+		},
+		{
+			"ImportPath": "github.com/tylerb/graceful",
+			"Comment": "v1.2.13",
+			"Rev": "50a48b6e73fcc75b45e22c05b79629a67c79e938"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "541150ac4f433e755f5663eba5d888c2fa347343"
+		},
+		{
+			"ImportPath": "golang.org/x/net/idna",
+			"Rev": "541150ac4f433e755f5663eba5d888c2fa347343"
+		},
+		{
+			"ImportPath": "golang.org/x/text/cases",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/internal",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/internal/tag",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/language",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/runes",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/secure/bidirule",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/secure/precis",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/transform",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/unicode/bidi",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/unicode/norm",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		},
+		{
+			"ImportPath": "golang.org/x/text/width",
+			"Rev": "a8b38433e35b65ba247bb267317037dee1b70cea"
+		}
+	]
+}
